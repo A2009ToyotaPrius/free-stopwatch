@@ -1,2 +1,2 @@
-# free-stopwatch
- stopwatch but free and no trackers 
+MUST BUILD YOURSELF
+you can use visual studios 2022 for that
